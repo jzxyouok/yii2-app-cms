@@ -24,7 +24,7 @@
         "yiisoft/yii2-bootstrap": "~2.0.0",
         "yiisoft/yii2-swiftmailer": "~2.0.0",
         "yiisoft/yii2-jui": "*",
-        "jonneyless/yii2-wechat": "dev-master",
+        "jonneyless/yii2-wechat": ">=0.1a",
         "onokumus/metismenu": "*",
         "bower-asset/jquery.cookie": "*",
         "bower-asset/slimscroll": "*",
