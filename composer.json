@@ -3,7 +3,7 @@
     "description": "Yii 2 CMS Project Template",
     "keywords": ["yii2", "framework", "cms", "project template"],
     "homepage": "http://www.ijony.com/",
-    "Language": "PHP",
+    "language": "PHP",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
