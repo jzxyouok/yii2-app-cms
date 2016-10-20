@@ -42,7 +42,7 @@
       "yiisoft/yii2-faker": "*",
 
       "codeception/base": "*",
-      "codeception/verify": "*",
+      "codeception/verify": "*"
     },
     "config": {
         "process-timeout": 1800
