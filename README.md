@@ -14,6 +14,8 @@ Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
 [![Latest Stable Version](https://poser.pugx.org/jonneyless/yii2-app-cms/v/stable.png)](https://packagist.org/packages/jonneyless/yii2-app-cms)
 [![Total Downloads](https://poser.pugx.org/jonneyless/yii2-app-cms/downloads.png)](https://packagist.org/packages/jonneyless/yii2-app-cms)
+[![Latest Unstable Version](https://poser.pugx.org/jonneyless/yii2-app-cms/v/unstable.svg)](https://packagist.org/packages/jonneyless/yii2-wechat-sdk)
+[![License](https://poser.pugx.org/jonneyless/yii2-app-cms/license.svg)](https://packagist.org/packages/jonneyless/yii2-wechat-sdk)
 
 DIRECTORY STRUCTURE
 -------------------
