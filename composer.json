@@ -1,16 +1,17 @@
 {
     "name": "jonneyless/yii2-app-cms",
-    "description": "Yii 2 CMS Project Template",
+    "description": "Yii 2 Content Manage System",
     "keywords": ["yii2", "framework", "cms", "project template"],
     "homepage": "http://www.ijony.com/",
     "language": "PHP",
     "type": "project",
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "support": {
         "issues": "https://github.com/jonneyless/yii2-app-cms/issues",
+        "wiki": "https://github.com/jonneyless/yii2-app-cms/wiki",
         "source": "https://github.com/jonneyless/yii2-app-cms"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "jonneyless",
@@ -19,10 +20,10 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "yiisoft/yii2": "*",
+        "yiisoft/yii2": "~2.0.6",
+        "yiisoft/yii2-bootstrap": "~2.0.0",
+        "yiisoft/yii2-swiftmailer": "~2.0.0",
         "yiisoft/yii2-jui": "*",
-        "yiisoft/yii2-bootstrap": "*",
-        "yiisoft/yii2-swiftmailer": "*",
         "jonneyless/yii2-wechat": "dev-master",
         "onokumus/metismenu": "*",
         "bower-asset/jquery.cookie": "*",
@@ -36,10 +37,12 @@
         "bower-asset/toastr": "*"
     },
     "require-dev": {
-        "yiisoft/yii2-codeception": "*",
-        "yiisoft/yii2-debug": "*",
-        "yiisoft/yii2-gii": "*",
-        "yiisoft/yii2-faker": "*"
+      "yiisoft/yii2-debug": "~2.0.0",
+      "yiisoft/yii2-gii": "~2.0.0",
+      "yiisoft/yii2-faker": "~2.0.0",
+
+      "codeception/base": "^2.2.3",
+      "codeception/verify": "~0.3.1"
     },
     "config": {
         "process-timeout": 1800
