@@ -11,7 +11,7 @@
         "wiki": "https://github.com/jonneyless/yii2-app-cms/wiki",
         "source": "https://github.com/jonneyless/yii2-app-cms"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "jonneyless",
