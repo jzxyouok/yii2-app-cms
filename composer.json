@@ -6,25 +6,26 @@
     "language": "PHP",
     "type": "project",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "jonneyless",
+            "email": "jonneyless@163.com",
+            "homepage": "http://www.ijony.com",
+            "role": "Developer"
+        }
+    ],
     "support": {
         "issues": "https://github.com/jonneyless/yii2-app-cms/issues",
         "wiki": "https://github.com/jonneyless/yii2-app-cms/wiki",
         "source": "https://github.com/jonneyless/yii2-app-cms"
     },
     "minimum-stability": "stable",
-    "authors": [
-        {
-            "name": "jonneyless",
-            "email": "jonneyless@163.com"
-        }
-    ],
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": ">=2.0.8",
         "yiisoft/yii2-bootstrap": "*",
         "yiisoft/yii2-swiftmailer": "*",
         "yiisoft/yii2-jui": "*",
-        "jonneyless/yii2-wechat": "*",
         "onokumus/metismenu": "*",
         "bower-asset/jquery.cookie": "*",
         "bower-asset/slimscroll": "*",

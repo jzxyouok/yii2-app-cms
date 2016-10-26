@@ -36,16 +36,6 @@ return [
             ],
         ],
         */
-        'request' => [
-            'parsers' => [
-                'application/json' => 'yii\web\JsonParser',
-            ],
-        ],
-    ],
-    'modules' => [
-        'wechat' => [
-            'class' => 'callmez\wechat\Module',
-        ],
     ],
     'params' => $params,
 ];
