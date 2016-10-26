@@ -3,7 +3,6 @@
     "description": "The Content Manage System Project Based Yii Framework",
     "keywords": ["yii2", "framework", "cms", "project template"],
     "homepage": "http://www.ijony.com/",
-    "language": "PHP",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -22,9 +21,9 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0",
-        "yiisoft/yii2": ">=2.0.8",
-        "yiisoft/yii2-bootstrap": "*",
-        "yiisoft/yii2-swiftmailer": "*",
+        "yiisoft/yii2": "~2.0.6",
+        "yiisoft/yii2-bootstrap": "~2.0.0",
+        "yiisoft/yii2-swiftmailer": "~2.0.0",
         "yiisoft/yii2-jui": "*",
         "onokumus/metismenu": "*",
         "bower-asset/jquery.cookie": "*",
@@ -40,10 +39,7 @@
     "require-dev": {
       "yiisoft/yii2-debug": "*",
       "yiisoft/yii2-gii": "*",
-      "yiisoft/yii2-faker": "*",
-
-      "codeception/base": "*",
-      "codeception/verify": "*"
+      "yiisoft/yii2-faker": "*"
     },
     "config": {
         "process-timeout": 1800
